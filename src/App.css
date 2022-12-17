@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.formerror {
+  color: red;
+}
+
+.but {
+  border-radius: 9px;
+  width: 100px;
+  height: 50px;
+  font-size: 25px;
+  margin: 22px 20px;
+}
